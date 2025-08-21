@@ -14,6 +14,7 @@ Project Overview
 --------
 This project is a self-hosted local web application that displays real-time and historical temperature and humidity data for an apartment. It features a clean dashboard for monitoring environmental conditions, spotting trends, and reviewing past changes. The system also includes API endpoints for retrieving stored data and for receiving readings from remote temperature/humidity sensors.
 
+![Sample Dashboard Image](https://github.com/jackc-07/ClimateTrack/blob/main/dashboard.PNG?raw=true)
 
 Key Features
 --------
